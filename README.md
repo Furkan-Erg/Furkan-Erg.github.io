@@ -1,1 +1,0 @@
-# Furkan-Erg.github.io
