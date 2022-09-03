@@ -4937,8 +4937,6 @@ ngb-datepicker:after {
   background-color: #B2AFAB;
   background-position: center center;
   background-size: cover;
-  min-height: 100vh;
-  max-height: 999px;
   overflow: hidden;
   position: relative;
   width: 100%;
@@ -5187,6 +5185,10 @@ ngb-datepicker:after {
 @media (max-width: 500px) {
   .presentation-title {
     font-size: 5em;
+  }
+
+  .motto {
+    padding-top: 50px;
   }
 }
 /*!
